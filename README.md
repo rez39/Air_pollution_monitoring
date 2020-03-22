@@ -5,6 +5,7 @@ The sensor node is built using the following set of sensors <br/>
 1.NOVA PM SDS011 for PM2.5 and PM10<br/>
 2.Grove Multichannel Gas sensor for CO,NO2,NH3<br/>
 3.DHT22 for Temperature and Humidity<br/>
+4.Nodemcu as MCU
 
 The node is enclosed in IP65 rated box with inlet glands for the SDS011 PM sensor.<br/>
 The DHT22 sensor and Grove Gas sensor has been Enclosed in Weather shield for easy flow of air.<br/>
